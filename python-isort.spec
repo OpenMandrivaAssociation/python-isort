@@ -3,7 +3,7 @@
 Summary:	A Python utility / library to sort imports
 Name:		python-isort
 Version:	4.3.4
-Release:	2
+Release:	3
 Group:		Development/Python
 License:	Python
 Url:		https://github.com/timothycrosley/isort
