@@ -7,7 +7,7 @@ Release:	1
 Group:		Development/Python
 License:	Python
 Url:		https://github.com/timothycrosley/isort
-Source0:	https://github.com/timothycrosley/isort/archive/%{version}/%{module}-%{version}.tar.gz
+Source0:	https://files.pythonhosted.org/packages/7b/b5/19e828baf02d3e441cd287a3f3cc172bec2d1210c0210294debeddbd3550/%{module}-%{version}.tar.gz
 BuildArch:	noarch 
 BuildRequires:	python-setuptools
 BuildRequires:	pkgconfig(python3)
