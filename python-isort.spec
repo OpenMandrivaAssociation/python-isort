@@ -2,12 +2,12 @@
   
 Summary:	A Python utility / library to sort imports
 Name:		python-isort
-Version:	5.7.0
+Version:	5.10.1
 Release:	1
 Group:		Development/Python
 License:	Python
 Url:		https://github.com/timothycrosley/isort
-Source0:	https://files.pythonhosted.org/packages/a2/f7/f50fc9555dc0fe2dc1e7f69d93f71961d052857c296cad0fb6d275b20008/isort-5.7.0.tar.gz
+Source0:	https://files.pythonhosted.org/packages/ab/e9/964cb0b2eedd80c92f5172f1f8ae0443781a9d461c1372a3ce5762489593/isort-5.10.1.tar.gz
 BuildArch:	noarch 
 BuildRequires:	python-setuptools
 BuildRequires:	pkgconfig(python3)
