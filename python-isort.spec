@@ -22,4 +22,4 @@ A Python utility / library to sort imports
 %files
 %{_bindir}/*
 %{py_sitedir}/isort
-#{py_sitedir}/isort*.egg-info
+%{python_sitelib}/isort-%{version}.dist-info
