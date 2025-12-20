@@ -11,6 +11,7 @@ Source0:	https://pypi.python.org/packages/source/i/isort/isort-%{version}.tar.gz
 BuildArch:	noarch 
 BuildRequires:	python%{pyver}dist(setuptools)
 BuildRequires:	python%{pyver}dist(pip)
+BuildRequires:	python%{pyver}dist(hatchling)
 BuildRequires:	pkgconfig(python3)
 BuildSystem:    python
  
