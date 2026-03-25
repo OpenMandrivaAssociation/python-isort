@@ -1,7 +1,7 @@
 %define module isort
 
 Name:		python-isort
-Version:	8.0.0
+Version:	8.0.1
 Release:	1
 Summary:	A Python utility / library to sort imports
 License:	MIT
@@ -12,9 +12,11 @@ BuildSystem:	python
 BuildArch:	noarch
 BuildRequires:	pkgconfig(python3)
 BuildRequires:	python%{pyver}dist(pip)
-BuildRequires:	python%{pyver}dist(setuptools)
-BuildRequires:	python%{pyver}dist(setuptools-scm)
 BuildRequires:	python%{pyver}dist(hatchling)
+BuildRequires:	python%{pyver}dist(hatch-vcs)
+BuildRequires:	python%{pyver}dist(poetry-core)
+BuildRequires:	python%{pyver}dist(setuptools-scm)
+BuildRequires:	python%{pyver}dist(wheel)
 
 %description 
 A Python utility / library to sort imports
