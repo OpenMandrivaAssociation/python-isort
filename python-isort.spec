@@ -2,7 +2,7 @@
 
 Name:		python-isort
 Version:	8.0.1
-Release:	1
+Release:	2
 Summary:	A Python utility / library to sort imports
 License:	MIT
 Group:		Development/Python
